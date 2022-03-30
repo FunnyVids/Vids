@@ -27,7 +27,7 @@ Check them out below!
 ## playbackerror.html
 ![playbackerror](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
 ## YoutubePlayer.html
-![YoutubePlayer](https://media.discordapp.net/attachments/782632582537019394/958535667082727484/unknown.png)
+![YoutubePlayer](https://cdn.discordapp.com/attachments/782632582537019394/958540643452457052/unknown.png)
 ## VimeoPlayer.html
 ![VimeoPlayer](https://media.discordapp.net/attachments/782632582537019394/958535948067549244/unknown.png)
 ## VimeoError.html
