@@ -22,3 +22,5 @@ Check them out below!
 ![private](https://cdn.discordapp.com/attachments/782632582537019394/958530660660834324/unknown.png)
 ## deletedvid.html
 ![deletedvid](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
+## playbackerror.html
+![playbackerror](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
