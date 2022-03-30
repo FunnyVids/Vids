@@ -16,6 +16,8 @@ Check them out below!
 
 ## blocked.html
 ![Blocked](https://media.discordapp.net/attachments/782632582537019395/958529708008558644/unknown.png)
+## Terminated.html
+![Terminated](https://cdn.discordapp.com/attachments/782632582537019394/958537501960699915/unknown.png)
 ## umg_.html
 ![umg_](https://cdn.discordapp.com/attachments/782632582537019395/958530092680765450/unknown.png)
 ## private.html
