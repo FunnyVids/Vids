@@ -28,7 +28,7 @@ Check them out below!
 ## deletedvid.html
 ![deletedvid](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
 ## playbackerror.html
-![playbackerror](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
+![playbackerror](https://cdn.discordapp.com/attachments/782632582537019394/958532136728657920/unknown.png)
 ## YoutubePlayer.html
 ![YoutubePlayer](https://cdn.discordapp.com/attachments/782632582537019394/958540643452457052/unknown.png)
 ## VimeoPlayer.html
