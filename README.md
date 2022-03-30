@@ -18,20 +18,20 @@ Want to preview the different styles?
 Check them out below!
 
 ## blocked.html
-![Blocked](https://media.discordapp.net/attachments/782632582537019395/958529708008558644/unknown.png)
+### ![Blocked](https://media.discordapp.net/attachments/782632582537019395/958529708008558644/unknown.png)
 ## Terminated.html
-![Terminated](https://cdn.discordapp.com/attachments/782632582537019394/958537501960699915/unknown.png)
+### ![Terminated](https://cdn.discordapp.com/attachments/782632582537019394/958537501960699915/unknown.png)
 ## umg_.html
-![umg_](https://cdn.discordapp.com/attachments/782632582537019395/958530092680765450/unknown.png)
+### ![umg_](https://cdn.discordapp.com/attachments/782632582537019395/958530092680765450/unknown.png)
 ## private.html
-![private](https://cdn.discordapp.com/attachments/782632582537019394/958530660660834324/unknown.png)
+### ![private](https://cdn.discordapp.com/attachments/782632582537019394/958530660660834324/unknown.png)
 ## deletedvid.html
-![deletedvid](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
+### ![deletedvid](https://cdn.discordapp.com/attachments/782632582537019394/958531380504043550/unknown.png)
 ## playbackerror.html
-![playbackerror](https://cdn.discordapp.com/attachments/782632582537019394/958532136728657920/unknown.png)
+### ![playbackerror](https://cdn.discordapp.com/attachments/782632582537019394/958532136728657920/unknown.png)
 ## YoutubePlayer.html
-![YoutubePlayer](https://cdn.discordapp.com/attachments/782632582537019394/958540643452457052/unknown.png)
+### ![YoutubePlayer](https://cdn.discordapp.com/attachments/782632582537019394/958540643452457052/unknown.png)
 ## VimeoPlayer.html
-![VimeoPlayer](https://media.discordapp.net/attachments/782632582537019394/958535948067549244/unknown.png)
+### ![VimeoPlayer](https://media.discordapp.net/attachments/782632582537019394/958535948067549244/unknown.png)
 ## VimeoError.html
-![VimeoError](https://cdn.discordapp.com/attachments/782632582537019394/958536164267155536/unknown.png)
+### ![VimeoError](https://cdn.discordapp.com/attachments/782632582537019394/958536164267155536/unknown.png)
